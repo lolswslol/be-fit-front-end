@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@be-fit/shared": ["shared/src/index.ts"],
       "my-account/Module": ["my-account/src/app/remote-entry/entry.module.ts"]
     }
   },
